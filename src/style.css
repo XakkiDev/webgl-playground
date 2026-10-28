@@ -3,3 +3,5 @@
 .advanced,.effect-card{border:1px solid #41493d;border-radius:7px;padding:10px;margin:12px 0;color:#cbd0c6;font-size:11px}.advanced summary,.effect-card summary{cursor:pointer;font-weight:600;color:#dce6c5}.effect-card .remove-item{display:block;margin:10px 0 0 auto;background:transparent;border:0;color:#ddaaa1;font-size:11px;cursor:pointer}.effect-card label,.advanced label{color:#cbd0c6}.effect-card .select-color,.advanced .select-color{margin-top:8px}
 
 .swatch.ink{background:radial-gradient(circle at 35% 35%,#242d42 0 12%,transparent 15%),radial-gradient(circle at 65% 60%,#34415c 0 18%,transparent 20%),#cfc4a7}
+
+.effect-picker summary{width:100%;list-style:none;cursor:pointer}.effect-picker summary::-webkit-details-marker{display:none}.effect-menu{display:grid;gap:3px;margin:8px 0 12px;padding:7px;border:1px solid #41493d;border-radius:7px;background:#191d19}.effect-menu button{text-align:left;background:transparent;border:0;border-radius:5px;color:#dce6d5;padding:9px;font-size:11px}.effect-menu button:hover,.effect-menu button:focus-visible{background:#3b4431}.effect-card[open]>summary{margin-bottom:8px}
