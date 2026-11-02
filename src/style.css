@@ -5,3 +5,6 @@
 .swatch.ink{background:radial-gradient(circle at 35% 35%,#242d42 0 12%,transparent 15%),radial-gradient(circle at 65% 60%,#34415c 0 18%,transparent 20%),#cfc4a7}
 
 .effect-picker summary{width:100%;list-style:none;cursor:pointer}.effect-picker summary::-webkit-details-marker{display:none}.effect-menu{display:grid;gap:3px;margin:8px 0 12px;padding:7px;border:1px solid #41493d;border-radius:7px;background:#191d19}.effect-menu button{text-align:left;background:transparent;border:0;border-radius:5px;color:#dce6d5;padding:9px;font-size:11px}.effect-menu button:hover,.effect-menu button:focus-visible{background:#3b4431}.effect-card[open]>summary{margin-bottom:8px}
+
+.background-select{margin-left:auto;display:flex;align-items:center;gap:7px;color:#a8b0a2;font-size:11px}.background-select select{width:auto;padding:5px 8px}.work-status{margin-left:0}.image-effects{border-top:1px solid #41493d;margin-top:14px;padding-top:12px}.image-effects strong{font-size:11px;color:#cbd7bd}.image-effect{padding:8px 0;border-bottom:1px solid #394136}.image-effect output{font-size:10px;color:#d6dfbe}.image-effect .remove-item{margin:0}
+@media(max-width:760px){.background-select{font-size:10px}.workspace-top{padding:0 10px;gap:5px}}
